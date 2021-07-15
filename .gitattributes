@@ -1,0 +1,2 @@
+attempts/GO_20183.csv filter=lfs diff=lfs merge=lfs -text
+attempts/*.csv filter=lfs diff=lfs merge=lfs -text
