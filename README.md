@@ -1,5 +1,5 @@
 # Aging Gene ML
-Reproducing of https://github.com/kerepesi/aging_ml
+Reproduction of https://github.com/kerepesi/aging_ml
 
 ***
 ### Environment
